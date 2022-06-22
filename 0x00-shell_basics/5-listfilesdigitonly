@@ -1,2 +1,2 @@
 #!/bin/bash
-Is it ls -lan
+ls -na
